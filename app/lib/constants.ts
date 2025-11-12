@@ -10,3 +10,4 @@ export const API_ENDPOINTS = {
   helloFastApi: "/api/py/helloFastApi",
 } as const;
 
+
